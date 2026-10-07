@@ -1,0 +1,17 @@
+{
+  "name": "Byteplan",
+  "short_name": "Byteplan",
+  "description": "Håll koll på byten, speltid och laguppställning för 7-, 9- och 11-mannafotboll.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1f4d33",
+  "theme_color": "#1f4d33",
+  "icons": [
+    { "src": "launchericon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "launchericon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "launchericon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
